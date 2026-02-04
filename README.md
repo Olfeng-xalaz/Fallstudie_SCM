@@ -1,5 +1,5 @@
 # Fallstudie_SCM
-Dieser Branch dient als offiziele Abgabe der Gruppe 2 aus dem Modul SCM WWI2023A.
+Dieser Branch dient als offizielle Abgabe der Gruppe 2 aus dem Modul SCM WWI2023A.
 
 Hier können Sie die Notebooks selbständig durchlaufen lassen.  
 
