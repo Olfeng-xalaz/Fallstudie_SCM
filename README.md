@@ -1,2 +1,2 @@
 # Fallstudie_SCM
-Fallstudie SCM
+Dieser Branch dient nur zu Testzwecken und ist daher nicht als relevant anzusehen. 
