@@ -7,7 +7,7 @@ https://www.gurobi.com/lp/all/do-more-with-gurobi/?utm_source=google&utm_medium=
 
 Dabei ist "Fallstudie" das Notebook ohne Erweiterung, "Fallstudie_Erweiterung" ist das Notebook mit der Erweiterung (Aufgabe 4).
 
-Die Ergebnisse unserer Durchläufe der Modellierung finden Sie unter dem Branch: "Unser_Durchlauf"
+Die Ergebnisse unserer Durchläufe der Modellierung finden Sie unter dem Branch: "Unser_Durchlauf".
 
 
 Autoren: Jo Imping, Marcel Klinger, Oliver Feng
